@@ -17,3 +17,4 @@ Open: brave://extensions ->  Developer mode(on) ->  Load unpacked -> browser-ext
 
 It's pretty much the same for other browsers.
 ```
+![image](https://github.com/loveuemail/browser-extension/blob/main/browsers.png)
